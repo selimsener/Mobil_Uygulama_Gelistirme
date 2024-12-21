@@ -2,5 +2,5 @@
 BSM 447 Mobil Uygulama Geliştirme Proje Ödevi
 
 HAZIRLAYANLAR: 
-G211210090
+G211210090 SELİM ŞENER
 G211210072
